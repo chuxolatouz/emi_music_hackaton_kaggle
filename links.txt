@@ -1,0 +1,21 @@
+Links Importantes:
+- Página Principal del Proyecto: 
+	https://www.kaggle.com/c/MusicHackathon
+- Set de Datos: 
+	https://www.kaggle.com/c/MusicHackathon/data
+- Ganador del Primer Lugar, código: 
+	https://github.com/fancyspeed/codes_of_innovations_for_emi/tree/master/code_of_innovations
+- Ganador del Primer Lugar, documentación: 
+	https://speakerdeck.com/datasciencelondon/emi-music-data-science-hackathon-1st-prize-winner
+- Segundo Lugar, código: 
+	https://github.com/lns/music-hackathon
+- Segundo Lugar, documentación: 
+	https://speakerdeck.com/datasciencelondon/emi-music-data-science-hackathon-2nd-prize-winner
+- Tercer Lugar, código: 
+	https://github.com/mewo2/musichackathon
+- Tercer Lugar, documentación: 
+	https://speakerdeck.com/datasciencelondon/emi-music-data-science-hackathon-3rd-prize-winner
+- Ganador Primer Lugar, código (otro): 
+	https://github.com/dell-zhang/zmusic_code
+- Ganador del Primer Lugar, documentación (otro): 
+	https://speakerdeck.com/datasciencelondon/emi-music-data-science-hackathon-1st-prize-winner-london
